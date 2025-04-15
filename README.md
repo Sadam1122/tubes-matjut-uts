@@ -49,7 +49,7 @@ Implementasi regresi linier dengan regularisasi L1 (Lasso) dan L2 (Ridge) menggu
 ```
 ├── README.md          # Dokumentasi ini
 ├── main.ipynb         # Notebook utama implementasi
-├── gambar             # Kumpulan Gambar
+├── Gambar.zip         # Kumpulan Gambar hasil runing
 ```
 
 ---
